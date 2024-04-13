@@ -1,0 +1,13 @@
+body {
+    background-color:beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#precio_final{
+    color: green;
+    font-size: 25px;
+}

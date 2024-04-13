@@ -1,0 +1,47 @@
+header.titulo h1 {
+   background-color: #ffab07;
+   font-size:80px;
+   
+    
+}
+
+.titulo-color{
+    text-align: center;
+    background-color:#ffab07 ;
+    color: black;
+    font-size: 25px;
+}
+.card-body{
+    background-color: white;
+    font-size:19px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  
+}
+
+
+.btn-ver {
+    background-color: black;
+    color: aliceblue;
+    align-self: flex-center; 
+    margin-top: auto;
+    border-color:white ;
+    
+}
+.btn-ver:hover{
+    background-color: white;
+    color: #1b1b1b;
+    border-color: black;
+    size: 10px;
+}
+.bg-pie{
+    background-color: black;
+}
+.pie{
+    text-align: center;
+   
+    color: whitesmoke;
+    margin-bottom: 0;
+}

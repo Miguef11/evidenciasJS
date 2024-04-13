@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-group {
+    width: 100%;
+}
+#resultado{
+    font-size: 21px;
+    color: green;
+}
+
+
